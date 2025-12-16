@@ -1,3 +1,0 @@
-/home/georgy/Desktop/os/demo/build/CMakeFiles/messenger.dir
-/home/georgy/Desktop/os/demo/build/CMakeFiles/edit_cache.dir
-/home/georgy/Desktop/os/demo/build/CMakeFiles/rebuild_cache.dir
