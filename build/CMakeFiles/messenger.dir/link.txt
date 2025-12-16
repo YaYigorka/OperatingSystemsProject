@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/messenger.dir/main.cpp.o CMakeFiles/messenger.dir/common/common.cpp.o CMakeFiles/messenger.dir/server/server.cpp.o CMakeFiles/messenger.dir/client/client.cpp.o -o messenger  -lpthread 
